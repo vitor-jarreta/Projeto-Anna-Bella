@@ -39,13 +39,13 @@
   <hr>
   <h3>Resultado: </h3>
   <h4>Página Inicial: </h4>
-  <img src="images/resultsImages/home.png">
+  <img src="../images/resultsImages/home.png">
   <h4>Biografia: </h4>
-  <img src="images/resultsImages/Biografia.png">
+  <img src="../images/resultsImages/Biografia.png">
   <h4>Campanhas Publicitárias: </h4>
-  <img src="images/resultsImages/campanhas.png">
+  <img src="../images/resultsImages/campanhas.png">
   <h4>Contato: </h4>
-  <img src="images/resultsImages/contato.png">
+  <img src="../images/resultsImages/contato.png">
 </div>
 
 <div>
