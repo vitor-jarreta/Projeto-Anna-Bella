@@ -39,13 +39,13 @@
   <hr>
   <h3>Resultado: </h3>
   <h4>Página Inicial: </h4>
-  <img src="ResultImages/TelaHome.png">
+  <img src="images/resultsImages/home.png">
   <h4>Biografia: </h4>
-  <img src="ResultImages/TelaContato.png">
+  <img src="images/resultsImages/Biografia.png">
   <h4>Campanhas Publicitárias: </h4>
-  <img src="ResultImages/TelaQuemSomos.png">
+  <img src="images/resultsImages/campanhas.png">
   <h4>Contato: </h4>
-  <img src="ResultImages/TelaQuemSomos.png">
+  <img src="images/resultsImages/contato.png">
 </div>
 
 <div>
@@ -53,9 +53,9 @@
   <h3>Interação</h3>
   <p>Caso queira tem interação com as telas só clicas nos seguintes links:</p>
   <ul>
-    <li><a href="https://raw.githack.com/vitor-jarreta/Projeto-Anna-Bella/refs/heads/main/index.html" target="_blank">Página Inicial</a></li>
-    <li><a href="https://raw.githack.com/vitor-jarreta/Projeto-Anna-Bella/refs/heads/main/biografia.html" target="_blank">Biografia</a></li>
-    <li><a href="https://raw.githack.com/vitor-jarreta/Projeto-Anna-Bella/refs/heads/main/campanha.html" target="_blank">Campnhas Publicitárias</a></li>
-    <li><a href="https://raw.githack.com/vitor-jarreta/Projeto-Anna-Bella/refs/heads/main/campanha.html" target="_blank">Contato</a></li>
+    <li><a href="https://raw.githack.com/vitor-jarreta/Projeto-Anna-Bella/refs/heads/main/html/index.html" target="_blank">Página Inicial</a></li>
+    <li><a href="https://raw.githack.com/vitor-jarreta/Projeto-Anna-Bella/refs/heads/main/html/biografia.html" target="_blank">Biografia</a></li>
+    <li><a href="https://raw.githack.com/vitor-jarreta/Projeto-Anna-Bella/refs/heads/main/html/campanha.html" target="_blank">Campnhas Publicitárias</a></li>
+    <li><a href="https://raw.githack.com/vitor-jarreta/Projeto-Anna-Bella/refs/heads/main/html/contato.html" target="_blank">Contato</a></li>
   </ul>
 </div>
