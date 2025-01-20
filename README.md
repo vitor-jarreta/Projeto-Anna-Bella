@@ -55,7 +55,7 @@
   <ul>
     <li><a href="https://raw.githack.com/vitor-jarreta/Projeto-Anna-Bella/refs/heads/main/html/index.html" target="_blank">Página Inicial</a></li>
     <li><a href="https://raw.githack.com/vitor-jarreta/Projeto-Anna-Bella/refs/heads/main/html/biografia.html" target="_blank">Biografia</a></li>
-    <li><a href="https://raw.githack.com/vitor-jarreta/Projeto-Anna-Bella/refs/heads/main/html/campanha.html" target="_blank">Campnhas Publicitárias</a></li>
+    <li><a href="https://raw.githack.com/vitor-jarreta/Projeto-Anna-Bella/refs/heads/main/html/campanha.html" target="_blank">Campanhas Publicitárias</a></li>
     <li><a href="https://raw.githack.com/vitor-jarreta/Projeto-Anna-Bella/refs/heads/main/html/contato.html" target="_blank">Contato</a></li>
   </ul>
 </div>
