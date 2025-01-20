@@ -53,9 +53,9 @@
   <h3>Interação</h3>
   <p>Caso queira tem interação com as telas só clicas nos seguintes links:</p>
   <ul>
-    <li><a href="https://raw.githack.com/vitor-jarreta/Projeto-Anna-Bella/refs/heads/main/html/index.html" target="_blank">Página Inicial</a></li>
-    <li><a href="https://raw.githack.com/vitor-jarreta/Projeto-Anna-Bella/refs/heads/main/html/biografia.html" target="_blank">Biografia</a></li>
-    <li><a href="https://raw.githack.com/vitor-jarreta/Projeto-Anna-Bella/refs/heads/main/html/campanha.html" target="_blank">Campanhas Publicitárias</a></li>
-    <li><a href="https://raw.githack.com/vitor-jarreta/Projeto-Anna-Bella/refs/heads/main/html/contato.html" target="_blank">Contato</a></li>
+    <li><a href="https://vitor-jarreta.github.io/Projeto-Anna-Bella/html/index.html" target="_blank">Página Inicial</a></li>
+    <li><a href="https://vitor-jarreta.github.io/Projeto-Anna-Bella/html/biografia.html" target="_blank">Biografia</a></li>
+    <li><a href="https://vitor-jarreta.github.io/Projeto-Anna-Bella/html/campanha.html" target="_blank">Campanhas Publicitárias</a></li>
+    <li><a href="https://vitor-jarreta.github.io/Projeto-Anna-Bella/html/contato.html" target="_blank">Contato</a></li>
   </ul>
 </div>
